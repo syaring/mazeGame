@@ -1,0 +1,31 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 23.21.13.8813]
+    Renderer: NVIDIA GeForce GTX 1080
+    Vendor:   NVIDIA
+    VRAM:     8086 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.013 seconds
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GitHub\mazeGame\AliceInMaze_game\aliceinmaze_game_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
