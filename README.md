@@ -7,7 +7,8 @@ unity version : 5.6.4, Windows
   
 AliceInMaze_game folder is only for game
   
-* How to ?  
-You can change the direction by swiping your mouse  
+* How to play?  
+You can change the direction by swiping your mouse 
+character move by direction key
 You can open the door, when you eat the special key  
-rabbit, man.. is enemy! you can remove the enemy by mouse cliking(bullet)
+rabbit, man.. are the enemy! you can remove the enemy by mouse cliking(bullet)
