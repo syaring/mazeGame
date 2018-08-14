@@ -9,6 +9,6 @@ AliceInMaze_game folder is only for game
   
 * How to play?  
 You can change the direction by swiping your mouse 
-character move by direction key
+You can move character by direction key
 You can open the door, when you eat the special key  
-rabbit, man.. are the enemy! you can remove the enemy by mouse cliking(bullet)
+Warning!!! rabbit, man.. are the enemy! you can remove the enemy by shooting bullet(mouse click)
